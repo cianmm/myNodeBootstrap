@@ -1,0 +1,14 @@
+{
+  "name": "myNodeBootstrap",
+  "version": "0.0.1",
+  "description": "This is my Node bootstrap",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cian Mac Mahon",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.10.4"
+  }
+}
